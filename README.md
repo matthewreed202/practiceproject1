@@ -1,2 +1,2 @@
 # practiceproject1
-Just a project for pratice
+Just a practice project
